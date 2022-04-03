@@ -1,5 +1,10 @@
-# rank-amateur-cowsay
+# rank-amateur-cowsay - with Rust implementation 
 
+planning to implement this fun program in Rust, as part of my attempt to learn the language
+
+
+------------------------------
+Original comments:
 This is cowsay, imported directly from my ancient CVS repository,
 plus a few documentation tweaks to make it a bit more friendly to
 GitHub.  Functionality remains unchanged from all pre-GitHub commits.
